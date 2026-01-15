@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋</h1>
 
 ###
 
-<h3 align="left">My name is Seleah and I'm a Front End Developer, from Beaverton, OR.</h3>
+<h3 align="left">I'm Seleah, a Front End Developer from Beaverton, OR.</h3>
 
 ###
 
