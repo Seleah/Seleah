@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2010<br>📚 I'm currently learning: Agentic AI on Google Cloud, Prompt Engineering, and brushing up on my math<br>🎯 Goals: Start my career as a Frontend Developer<br>🎲 Hobbies: brewing beer, cycling, paddleboarding, baking and making natural sodas</h4>
+<h4 align="left">✨ Creating bugs since 2010<br>📚 I'm currently learning: Agentic AI on Google Cloud, Prompt Engineering, and brushing up on my math<br>📓 For funsies, I'd like to learn: three.js and Machine Learning<br>🎯 Goals: Start my career as a Frontend Developer<br>🎲 Hobbies: brewing beer, cycling, paddleboarding, and making natural sodas</h4>
 
 ###
 
