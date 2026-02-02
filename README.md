@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2010<br>📚 I'm currently learning: Agentic AI on Google Cloud, Vercel AI SDK, and Next.js<br>📓 For funsies, I'd like to learn: three.js and/or babylon.js, and Machine Learning<br>🎯 Goals: Start my career as a Frontend Developer<br>🎲 Hobbies: brewing beer, cycling, paddleboarding, and making natural sodas</h4>
+<h4 align="left">✨ Creating bugs since 2010<br>📚 I'm currently learning: Agentic AI on Google Cloud, and Next.js<br>📓 For funsies, I'd like to learn: three.js and/or babylon.js, and Machine Learning<br>🎯 Goals: Start my career as a Frontend Developer<br>🎲 Hobbies: brewing beer, cycling, paddleboarding, and making natural sodas</h4>
 
 ###
 
