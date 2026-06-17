@@ -29,7 +29,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I work with</h2>
 
 ###
 
@@ -40,8 +40,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -51,6 +49,18 @@
   <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="codepen logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
 ###
