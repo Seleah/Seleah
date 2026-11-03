@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I'm Seleah, a Front End Developer from Beaverton, OR.</h3>
+<h3 align="left">I'm Seleah, a Developer in Beaverton, OR.</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2010<br>📚 I'm currently learning: SQL, PostgreSQL, Docker, and Backend Development<br>📓 For funsies, I'd like to learn: three.js and/or babylon.js, and Machine Learning<br>🎯 Goals: Start my career as a Frontend Developer<br>🎲 Hobbies: brewing beer, cycling, paddleboarding, and making natural sodas</h4>
+<h4 align="left">✨ Creating bugs since 2010<br>📚 I'm currently learning: Fullstack Architecture and API Design<br>💪 I'm practicing:Multi-Agent Orchestration & Core AI Frameworks, End-to-End Data Lifecycle & Automation, and Modern Infrastructure & DevOps Foundations<br>📓 For funsies, I'd like to learn: three.js and/or babylon.js, and Machine Learning<br>🎯 Goals: Start my career as a Developer<br>🎲 Hobbies: brewing beer, paddleboarding, and making cool stuff</h4>
 
 ###
 
